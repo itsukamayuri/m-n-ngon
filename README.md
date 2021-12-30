@@ -1,1 +1,1 @@
-https://itsukamayuri.github.io/mon-ngon/
+https://github.com/itsukamayuri/mon-ngon
