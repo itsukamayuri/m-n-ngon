@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Món ngon mỗi ngày</title>
+    <link rel="stylesheet" href="stye.css">
+    <link rel="stylesheet" href="themify-icons/themify-icons.css">
+    <style>
+        
+        #day-nau{
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        #page{
+            height: 100px;
+        }
+        #page1 a{
+            text-decoration: none;
+        }
+        .title a {
+            left: 50%;
+        } 
+    </style>
+</head>
+<body>
+    <div id="main">
+        <div id="header">
+            <!--Đầu-->
+            <div class="container">
+                <a href="http://127.0.0.1:5500index.html">Món Ngon</br> Mỗi Ngày</a>
+                <div class="header-right">
+                    <div class="header-social">
+                        <a href="https://www.facebook.com/profile.php?id=100005059112290">
+                            <i class="ti-facebook"></i>
+                        </a>
+                        <a href="https://github.com/itsukamayuri">
+                            <i class="ti-github"></i>
+                        </a>
+                        <a href="https://twitter.com/hitorishu1">
+                            <i class="ti-twitter"></i>
+                        </a>
+                        <i class="ti-search"></i> 
+                    </div>
+                </div>
+            </div>
+            <input type="checkbox" hidden class="nav-input" id="nav-mobile-input">
+            <label for="nav-mobile-input" class="nav-overlay"></label>
+            <div class="navigation-wrap">
+                <div class="container1">
+                    <label for="nav-mobile-input" class="menu-mobile">
+                        <i class="ti-view-list"></i>
+                        MENU
+                    </label>
+                    <ul id="menu-menu-chinh" class="menu clearfix toggle-menu">
+                        <li class="menu-item"><a href="day-nau-an.html">Dạy nấu ăn</a></li>
+                        <li class="menu-item"><a href="https://eva.vn/bep-eva/7-bi-kip-nau-xoi-vua-thom-vua-deo-khien-ban-co-the-mo-duoc-ca-tiem-ban-hang-c162a328849.html">Cách nấu xôi ngon</a></li>
+                        <li class="menu-item"><a href="mon-an-ngon.html">Món ăn ngon</a></li>
+                        <li class="menu-item"><a href="mon-ngon-cuoi-tuan.html">Món ngon cuối tuần</a></li>
+                        <li class="menu-item"><a href="danh-muc-mon-ngon.html">Danh mục món ngon</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="page1" style="
+        position: relative;
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+        /* margin-top: 15px; */
+        min-height: 100px;
+        top: 50px;
+        padding-top: 35px;
+        float: none;
+        clear: both;
+        ">
+            <div class="article article left-thumb">
+                <div id="content_box">
+                    <div id="day-nau">Category: Dạy nấu ăn</div>
+                    <article class="latestPost excerpt">
+                        <a href="https://massageishealthy.com/mon-ngon-tu-cua-bien.html" title="Những món ngon từ cua biển" id="featured-thumbnail" class="post-image post-image-left post-media">
+                            <div class="featured-thumbnail ">
+                                <img src="https://www.disneycooking.com/wp-content/uploads/2020/07/mon-ngon-tu-ca.jpg" class="wp-post-image" >
+                            </div>
+                        </a>
+                        <div class="content-wrapper">
+                            <h2 class="title front-view-title">
+                                <a href="https://www.disneycooking.com/mon-ngon-tu-ca" title="Những món ngon từ cá  ">Những món từ cá   </a>
+                            </h2>
+                            <div class="front-view-content">
+  Nếu đã quá ngán ngẩm với những món thịt, bạn hãy thử đổi gió với các món ngon từ cá dưới đây, chắc chắn sẽ giúp bạn có những trải nghiệm thú vị và mới lạ cho vị giác của mình. Hơn bao giờ hết, các món ngon mỗi ngày từ cá này đều rất bổ dưỡng và có lợi cho sức khỏe. Vì vậy, bạn đừng bỏ qua bài viết này nhé! &nbsp;
+                        </div>
+                    </article>
+                    <article class="latestPost excerpt">    
+                        <a href="https://www.ivivu.com/blog/2020/04/dam-da-voi-8-mon-ngon-xuat-sac-tu-thit-ba-chi-phai-lam-ngay/" title="Những món ngon từ thịt lợn" id="featured-thumbnail" class="post-image post-image-left post-media">
+                            <div class="featured-thumbnail ">
+                                <img src="https://icdn.one/upload/2021/01/21/20210121141403-f6e868d5.jpg" class="wp-post-image" >
+                            </div>
+                        </a>
+                        <div class="content-wrapper">
+                            <h2 class="title front-view-title">
+                                <a href="https://vietfoodshop.com/bai-viet/tong-hop-14-mon-bun-ngon-va-de-lam-ngay-tai-nha/">Những món bún ngon </a>
+                            </h2>
+                            <div class="front-view-content">
+                                Bún dễ ăn, thanh mát khi kết hợp với nước lèo sẽ mang đến cho cả gia đình món ăn vừa thơm ngon mà cũng không kém phần bổ dưỡng.&nbsp;…
+                            </div>
+                        </div>
+                    </article>
+                    <article class="latestPost excerpt">
+                        <a href="https://www.dienmayxanh.com/vao-bep/tong-hop-10-mon-an-tu-muc-ong-thom-ngon-hap-dan-cho-bua-com-10339" title="Những món ngon từ mực ống" id="featured-thumbnail" class="post-image post-image-left post-media">
+                            <div class="featured-thumbnail ">
+                                <img src="https://cdn.tgdd.vn/2021/09/CookDish/tong-hop-18-cach-lam-thit-heo-nuong-thom-ngon-dam-vi-ai-cung-avt-1200x676.jpg" alt="thịt nướng" class="wp-post-image" >
+                            </div>
+                        </a>
+                        <div class="content-wrapper">
+                            <h2 class="title front-view-title">
+                                <a href="https://www.dienmayxanh.com/vao-bep/tong-hop-cac-cach-lam-thit-heo-nuong-thom-ngon-dam-vi-13575">Những món thịt nướng ngon</a>
+                            </h2>
+                            <div class="front-view-content">
+                                Đừng vội nghĩ rằng thịt heo chỉ có thể biến tấu thành các món chiên, món kho,... bởi khi xuất hiện dưới các món nướng cũng sẽ làm trái tim bạn đập nhanh liên hồi đấy! Nào cùng chuyên mục Mẹo vào bếp điểm qua tổng hợp 18 cách làm thịt heo nướng "vạn người mê" thôi nha!&nbsp;…
+                            </div>
+                        </div>
+                    </article>
+                    <article class="latestPost excerpt">
+                        <a href="https://daotaobeptruong.vn/mon-ngon-tu-ga" title="Những món ngon từ gà" id="featured-thumbnail" class="post-image post-image-left post-media">
+                            <div class="featured-thumbnail ">
+                                <img src="https://cdn.tgdd.vn/2021/04/CookProduct/xoi-1-1200x676.jpg" class="wp-post-image" >
+                            </div>
+                        </a>
+                        <div class="content-wrapper">
+                            <h2 class="title front-view-title">
+                                <a href="https://www.dienmayxanh.com/vao-bep/tong-hop-16-cach-nau-xoi-ngon-bang-noi-com-dien-don-gian-deo-09036">cách nấu xôi</a>
+                            </h2>
+                            <div class="front-view-content">
+                                GMột trong những món ăn lý tưởng cho buổi sáng tràn đầy năng lượng là các món xôi thơm ngon, hấp dẫn. Hôm nay, chuyên mục Mẹo vào sẽ giúp bạn bỏ túi 16 cách nấu xôi ngon, cực đơn giản bằng nồi cơm điện tại nhà nhé!&nbsp;…
+                            </div>
+                        </div>
+                    </article>
+                    <article class="latestPost excerpt">
+                        <a href="https://hoanghaigroup.com/cac-mon-ngon-tu-tom/" class="post-image post-image-left post-media">
+                            <div class="featured-thumbnail ">
+                                <img src="https://cdn.tgdd.vn/2021/01/CookProduct/1111-1200x676-9.jpg" class="wp-post-image" >
+                            </div>
+                        </a>
+                        <div class="content-wrapper">
+                            <h2 class="title front-view-title">
+                                <a href="https://hoanghaigroup.com/cac-mon-ngon-tu-tom/" title="Những món ngon từ tôm">Những món ngon từ tôm</a>
+                            </h2>
+                            <div class="front-view-content">
+                                Các món ngon từ tôm luôn được yêu thích không chỉ bởi vị thanh ngọt, bổ dưỡng mà còn nhờ hình dáng đẹp mắt. Chính vì thế, tôm được biến tấu trong đủ loại thực đơn từ dân dã đến sang trọng&nbsp;…
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+            <div id="recent-posts-2" class="widget widget_recent_entries">
+                <h3 class="widget-title">các bài liên quan</h3>
+                <ul>
+                    <li>
+                        <a href="https://monngonmoingay.net.vn/nhung-mon-ngon-tu-cua-bien/">Những món ngon từ cua biển</a>
+                    </li>
+                    <li>
+                        <a href="https://www.ivivu.com/blog/2020/04/dam-da-voi-8-mon-ngon-xuat-sac-tu-thit-ba-chi-phai-lam-ngay/">Những món ngon từ thịt lợn</a>
+                    </li>
+                    <li>
+                        <a href="https://www.dienmayxanh.com/vao-bep/tong-hop-10-mon-an-tu-muc-ong-thom-ngon-hap-dan-cho-bua-com-10339">Những món ngon từ mực ống</a>
+                    </li>
+                    <li>
+                        <a href="https://daotaobeptruong.vn/mon-ngon-tu-ga">Những món ngon từ gà</a>
+                    </li>
+                    <li>
+                        <a href="https://hoanghaigroup.com/cac-mon-ngon-tu-tom/">Những món ngon từ tôm</a>
+                    </li>
+                </ul>
+            </div>
+    </div>  
+</body>
+</html>
